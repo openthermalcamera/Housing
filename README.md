@@ -1,5 +1,9 @@
 # Housing
-Design files for Open Thermal Camera housing
+Design files for Open Thermal Camera housing.
+
+Housing was designed using **FreeCAD version 0.18**
+
+![alt text](./housing_preview.png)
 
 ## Licence
 
